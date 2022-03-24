@@ -5,8 +5,8 @@ guarda, modifica y gestiona los *participantes* de la competicion con sus marcas
 
 ### tecnologias utirlizadas
 
--Eclipse
--java
--javadoc
+- Eclipse
+- java
+- javadoc
 
 https://github.com/jorgerubin/despliegue/edit/main/README.md
